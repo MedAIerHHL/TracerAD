@@ -8,6 +8,14 @@
 
 </div>
 
+<div align="center">
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=MedAIerHHL/TracerAD)
+[![GitHub Repo stars](https://img.shields.io/github/stars/MedAIerHHL/TracerAD?style=social)](https://github.com/MedAIerHHL/TracerAD/stargazers)
+
+</div>
+
+
 **Authors:** Haolin Huang*, Junlei Wu*, Jiaying Lu, Zhenrong Shen, Xinyu Wang, Chuantao Zuo, Qian Wang†  
 
 ## Abstract
